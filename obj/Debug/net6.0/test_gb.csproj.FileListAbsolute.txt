@@ -1,0 +1,15 @@
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\bin\Debug\net6.0\test_gb.exe
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\bin\Debug\net6.0\test_gb.deps.json
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\bin\Debug\net6.0\test_gb.runtimeconfig.json
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\bin\Debug\net6.0\test_gb.dll
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\bin\Debug\net6.0\test_gb.pdb
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.csproj.AssemblyReference.cache
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.GeneratedMSBuildEditorConfig.editorconfig
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.AssemblyInfoInputs.cache
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.AssemblyInfo.cs
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.csproj.CoreCompileInputs.cache
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.dll
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\refint\test_gb.dll
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.pdb
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\test_gb.genruntimeconfig.cache
+\\ic-fs-03\users$\e.timoshenko\Desktop\GB\test_gb\obj\Debug\net6.0\ref\test_gb.dll
